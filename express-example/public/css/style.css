@@ -1,0 +1,20 @@
+#button {
+    display: block;
+}
+
+#text {
+    font-size: 16px;
+}
+
+#heading {
+    font-weight: bold;
+}
+
+#logo {
+    object-fit: cover;
+}
+
+h1 {
+    font-size: 24px;
+    color: red;
+}

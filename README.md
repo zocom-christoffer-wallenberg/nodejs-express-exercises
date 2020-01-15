@@ -15,9 +15,13 @@ Tips! Använd dina filer från repetionsövningen av JS (förs lektionen på den
 
 ### URL:er
 /api/getKey - ska anropa https://www.forverkliga.se/JavaScript/api/api-db.php?requestGroup
+
 /api/setBook - ska anropa **Set data** i det andra API:et
+
 /api/getBook/:book - ska anropa **Get data** i det andra API:et
+
 /api/getAllBooks - ska anropa **Get all data** i det andra API:et
+
 /api/deleteBook/:book ska anropa **Remove data** i det andra API:et
 
 ### API - specifikation för ditt API

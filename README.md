@@ -13,6 +13,8 @@ Tips! Använd dina filer från repetionsövningen av JS (förs lektionen på den
 
 5. Nu ska du skapa ett API för att hämta och visa böcker som du i JavaScript på klienten kan anropa med t.ex. **fetch**. Nedan följer de url:er du ska använda dig av. I ditt API ska du sedan anropa ett annat API som du hittar [här](http://forverkliga.se/JavaScript/api/api-db.php).
 
+Använder er av const http = require('https');
+
 ### URL:er
 /api/getKey - ska anropa https://www.forverkliga.se/JavaScript/api/api-db.php?requestGroup
 
